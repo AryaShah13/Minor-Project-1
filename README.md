@@ -74,9 +74,9 @@ Access real-time weather forecasts
 
 ![4](https://github.com/user-attachments/assets/236b14a1-14b2-4f8a-94d5-399ba32bcd24)
 
-
+![1](https://github.com/user-attachments/assets/c5fb05b7-6342-4eec-a584-d9ef733b4125)
 
 ![3](https://github.com/user-attachments/assets/b2d577f8-8070-42d4-aaf4-9e8a3980e748)
 ![2](https://github.com/user-attachments/assets/56c7f65d-77ed-4014-9ac8-0c3d130c9412)
-![1](https://github.com/user-attachments/assets/c5fb05b7-6342-4eec-a584-d9ef733b4125)
+
 
